@@ -1,3 +1,5 @@
+
+
 ## Hi, I'm Daniel 👋
 I'm starting my third year at Hood College. I LOVE learning and am interested in full-stack web development and artificial intelligence.
 <br/><br/> <!-- Adding space -->
@@ -30,6 +32,8 @@ I'm starting my third year at Hood College. I LOVE learning and am interested in
 <img align="left" alt="TensorFlow" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
 <img align="left" alt="Google Cloud" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
 <img align="left" alt="Google Cloud" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+<img align="left" alt="C++" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="pytortch" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
           
 
 <br clear="left"/>
