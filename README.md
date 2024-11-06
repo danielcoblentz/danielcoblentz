@@ -1,5 +1,5 @@
 
-
+          
 ## Hi, I'm Daniel 👋
 I'm starting my third year at Hood College. I LOVE learning and am interested in full-stack web development and artificial intelligence.
 <br/><br/> <!-- Adding space -->
@@ -38,7 +38,36 @@ I'm starting my third year at Hood College. I LOVE learning and am interested in
 
 <br clear="left"/>
 
-<br/><br/> <!-- Adding space -->
+<br/><br/> 
+## 📌 Pinned repositories
+
+<table style="border: none;">
+  <tr style="border: none;">
+    <td style="border: none;">
+      <a href="https://github.com/danielcoblentz/danielcoblentz.github.io">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielcoblentz&repo=danielcoblentz.github.io&theme=github_dark&bg_color=1e1e2e&text_color=c4cdea&icon_color=c4cdea&border_color=1e1e2e&hide_border=true" alt="Daniel's Portfolio Website">
+      </a>
+    </td>
+    <td style="border: none;">
+      <a href="https://github.com/danielcoblentz/Image-classification-using-VGG16">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielcoblentz&repo=Image-classification-using-VGG16&theme=github_dark&bg_color=1e1e2e&text_color=c4cdea&icon_color=c4cdea&border_color=1e1e2e&hide_border=true" alt="Image Classification using VGG16">
+      </a>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none;">
+      <a href="https://github.com/danielcoblentz/soundscape">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielcoblentz&repo=soundscape&theme=github_dark&bg_color=1e1e2e&text_color=c4cdea&icon_color=c4cdea&border_color=1e1e2e&hide_border=true" alt="Soundscape">
+      </a>
+    </td>
+    <td style="border: none;">
+      <a href="https://github.com/danielcoblentz/Exosky">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielcoblentz&repo=Exosky&theme=github_dark&bg_color=1e1e2e&text_color=c4cdea&icon_color=c4cdea&border_color=1e1e2e&hide_border=true" alt="Exosky">
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 ## 📊 Stats 
@@ -54,4 +83,15 @@ I'm starting my third year at Hood College. I LOVE learning and am interested in
 
 <br clear="left"/>
 
+
+## 📫 Contact Me
+
+<p dir="auto">
+    <a href="mailto:danielcoblentz916@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+    <a href="https://www.linkedin.com/in/danielcoblentz/" rel="nofollow">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+</p>
 <br clear="left"/>
