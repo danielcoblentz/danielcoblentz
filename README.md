@@ -56,17 +56,18 @@ I'm starting my third year at Hood College. I LOVE learning and am interested in
   </tr>
   <tr style="border: none;">
     <td style="border: none;">
-      <a href="https://github.com/danielcoblentz/soundscape">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielcoblentz&repo=soundscape&theme=github_dark&bg_color=1e1e2e&text_color=c4cdea&icon_color=c4cdea&border_color=1e1e2e&hide_border=true" alt="Soundscape">
+      <a href="https://github.com/danielcoblentz/Maze-Runner">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielcoblentz&repo=Maze-Runner&theme=github_dark&bg_color=1e1e2e&text_color=c4cdea&icon_color=c4cdea&border_color=1e1e2e&hide_border=true" alt="Maze Runner">
       </a>
     </td>
     <td style="border: none;">
-      <a href="https://github.com/danielcoblentz/Exosky">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielcoblentz&repo=Exosky&theme=github_dark&bg_color=1e1e2e&text_color=c4cdea&icon_color=c4cdea&border_color=1e1e2e&hide_border=true" alt="Exosky">
+      <a href="https://github.com/danielcoblentz/Spell-Checker">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielcoblentz&repo=Spell-Checker&theme=github_dark&bg_color=1e1e2e&text_color=c4cdea&icon_color=c4cdea&border_color=1e1e2e&hide_border=true" alt="Spell Checker">
       </a>
     </td>
   </tr>
 </table>
+
 
 
 
