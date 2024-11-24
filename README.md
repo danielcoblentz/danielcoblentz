@@ -7,7 +7,7 @@ I'm starting my third year at Hood College. I LOVE learning and am interested in
 
 ## 🌍 About Me
 -  💻 **Currently Working:** I am interning at International Help, focusing on web development and data analysis for the Summer.
-- 🎓 **Education:** I'm pursuing a major in Computer Science and a minor in Math at Hood College. This fall, I'll be a Teaching Assistant for CS 201 (Object-Oriented Programming I).
+- 🎓 **Education:** I'm pursuing a major in Computer Science and a minor in Mathematics at Hood College. This Spring , I'll be a Teaching Assistant for CS 202 (Object-Oriented Programming II).
 - 🚀 **Hackathons:** I have a strong passion for participating in hackathons. I recently competed in Codedex's latest hackathon and am looking forward to joining the NASA Space Apps Challenge this fall.
 - 📚 **Learn more about me** at [danielcoblentz.com](https://danielcoblentz.github.io/)
 
