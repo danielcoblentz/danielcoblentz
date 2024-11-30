@@ -1,6 +1,6 @@
 
           
-## Hi, I'm Daniel 👋
+# Hi, I'm Daniel 👋
 I'm currently a junior at Hood College. I LOVE learning and am interested in full-stack web development and artificial intelligence.
 <br/><br/> <!-- Adding space -->
 
