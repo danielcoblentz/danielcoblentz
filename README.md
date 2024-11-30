@@ -17,7 +17,7 @@ I'm starting my third year at Hood College. I LOVE learning and am interested in
 
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px"/> <space> Languages & Tools:
-<img src="https://skillicons.dev/icons?i=vscode,pytorch,html,css,js,git,mysql,gcp,python,java,mongodb,github,anaconda,r,flask,figma,firebase,tensorflow,cpp&perline=10" />
+<img src="https://skillicons.dev/icons?i=vscode,pytorch,html,css,js,git,mysql,gcp,python,java,mongodb,github,anaconda,r,flask,figma,firebase,tensorflow,cpp&perline=15"  />
 
 
 <br/><br/> 
