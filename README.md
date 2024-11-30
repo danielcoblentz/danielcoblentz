@@ -1,19 +1,19 @@
 
           
 ## Hi, I'm Daniel 👋
-I'm starting my third year at Hood College. I LOVE learning and am interested in full-stack web development and artificial intelligence.
+I'm currently a junior at Hood College. I LOVE learning and am interested in full-stack web development and artificial intelligence.
 <br/><br/> <!-- Adding space -->
 
 
 ## 🌍 About Me
--  💻 **Currently Working:** I will be wokring as a Research Assitant this coming Spring semester, focusing on Machine learning and embedded systems.
-- 🎓 **Education:** I'm pursuing a major in Computer Science and a minor in Mathematics at Hood College. This Spring , I'll also be a Teaching Assistant for CS 202 (Object-Oriented Programming II).
+-  💻 **Currently Working:** I will be working as a Research assistant this Spring semester, focusing on Machine learning and embedded systems.
+- 🎓 **Education:** I'm pursuing a major in Computer Science and a minor in Mathematics at Hood College. This Spring, I'll also be a Teaching Assistant for CS 202 (Object-Oriented Programming II).
 - 🚀 **Hackathons:** I have a strong passion for participating in hackathons. I recently competed in Codedex's latest hackathon and am looking forward to joining the NASA Space Apps Challenge this fall.
 - 📚 **Learn more about me** at [danielcoblentz.com](https://danielcoblentz.github.io/)
 
 <br/><br/> 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px"/> <space> Languages & Tools:
-<img src="https://skillicons.dev/icons?i=vscode,pytorch,html,css,js,git,mysql,gcp,python,java,mongodb,github,anaconda,r,flask,figma,firebase,tensorflow,cpp&perline=12"  />
+<img src="https://skillicons.dev/icons?i=vscode,pytorch,html,css,js,git,mysql,gcp,python,java,mongodb,github,anaconda,r,flask,figma,firebase,tensorflow,cpp&perline=12"/>
 
 
 <br/><br/> 
