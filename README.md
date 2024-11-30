@@ -11,11 +11,7 @@ I'm starting my third year at Hood College. I LOVE learning and am interested in
 - 🚀 **Hackathons:** I have a strong passion for participating in hackathons. I recently competed in Codedex's latest hackathon and am looking forward to joining the NASA Space Apps Challenge this fall.
 - 📚 **Learn more about me** at [danielcoblentz.com](https://danielcoblentz.github.io/)
 
-
-
-<br/><br/> <!-- Adding space -->
-
-
+<br/><br/> 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px"/> <space> Languages & Tools:
 <img src="https://skillicons.dev/icons?i=vscode,pytorch,html,css,js,git,mysql,gcp,python,java,mongodb,github,anaconda,r,flask,figma,firebase,tensorflow,cpp&perline=12"  />
 
@@ -23,33 +19,18 @@ I'm starting my third year at Hood College. I LOVE learning and am interested in
 <br/><br/> 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Pushpin" width="25" height="25" /> Pinned repositories
 
-<table style="border: none;">
-  <tr style="border: none;">
-    <td style="border: none;">
-      <a href="https://github.com/danielcoblentz/danielcoblentz.github.io">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielcoblentz&repo=danielcoblentz.github.io&theme=github_dark&bg_color=1e1e2e&text_color=c4cdea&icon_color=c4cdea&border_color=1e1e2e&hide_border=true" alt="Daniel's Portfolio Website">
-      </a>
-    </td>
-    <td style="border: none;">
-      <a href="https://github.com/danielcoblentz/Image-classification-using-VGG16">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielcoblentz&repo=Image-classification-using-VGG16&theme=github_dark&bg_color=1e1e2e&text_color=c4cdea&icon_color=c4cdea&border_color=1e1e2e&hide_border=true" alt="Image Classification using VGG16">
-      </a>
-    </td>
-  </tr>
-  <tr style="border: none;">
-    <td style="border: none;">
-      <a href="https://github.com/danielcoblentz/Maze-Runner">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielcoblentz&repo=Maze-Runner&theme=github_dark&bg_color=1e1e2e&text_color=c4cdea&icon_color=c4cdea&border_color=1e1e2e&hide_border=true" alt="Maze Runner">
-      </a>
-    </td>
-    <td style="border: none;">
-      <a href="https://github.com/danielcoblentz/Spell-Checker">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielcoblentz&repo=Spell-Checker&theme=github_dark&bg_color=1e1e2e&text_color=c4cdea&icon_color=c4cdea&border_color=1e1e2e&hide_border=true" alt="Spell Checker">
-      </a>
-    </td>
-  </tr>
-</table>
-
+<a href="https://github.com/danielcoblentz/danielcoblentz.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielcoblentz&repo=danielcoblentz.github.io&title_color=89b4fa&text_color=cdd6f4&icon_color=b4befe&border_color=45475a&bg_color=1e1e2e" alt="Portfolio Website" />
+</a>
+<a href="https://github.com/danielcoblentz/Image-classification-using-VGG16">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielcoblentz&repo=Image-classification-using-VGG16&title_color=89b4fa&text_color=cdd6f4&icon_color=b4befe&border_color=45475a&bg_color=1e1e2e" alt="Image Classification using VGG16" />
+</a>
+<a href="https://github.com/danielcoblentz/Maze-Runner">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielcoblentz&repo=Maze-Runner&title_color=89b4fa&text_color=cdd6f4&icon_color=b4befe&border_color=45475a&bg_color=1e1e2e" alt="Maze Runner" />
+</a>
+<a href="https://github.com/danielcoblentz/Spell-Checker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielcoblentz&repo=Spell-Checker&title_color=89b4fa&text_color=cdd6f4&icon_color=b4befe&border_color=45475a&bg_color=1e1e2e" alt="Spell Checker" />
+</a>
 
 
 
