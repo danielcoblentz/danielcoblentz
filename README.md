@@ -33,7 +33,6 @@ I'm currently a junior at Hood College. I LOVE learning and am interested in ful
 </a>
 
 
-
 ## 📊 Stats 
 
 <p align="left">
