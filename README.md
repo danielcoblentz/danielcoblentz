@@ -35,7 +35,7 @@ I'm currently a junior at Hood College. I LOVE learning and am interested in ful
 
 <p align="left">
   <a href="https://github.com/danielcoblentz">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=danielcoblentz&show_icons=true&count_private=true&include_all_commits=true&hide=contribs&bg_color=1e1e2e&text_color=c4cdea&icon_color=c4cdea&border_color=1e1e2e" alt="GitHub Stats" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=danielcoblentz&show_icons=true&count_private=true&include_all_commits=true&hide=contribs&bg_color=1e1e2e&text_color=c4cdea&icon_color=c4cdea&border_color=1e1e2e&cache_seconds=1800" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/danielcoblentz">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcoblentz&hide=css,html&langs_count=3&bg_color=1e1e2e&text_color=c4cdea&border_color=1e1e2e&random=12345" alt="Top Languages" />
@@ -43,6 +43,7 @@ I'm currently a junior at Hood College. I LOVE learning and am interested in ful
 </p>
 
 <br clear="left"/>
+
 
 
 ## 📫 Contact Me
