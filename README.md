@@ -7,7 +7,7 @@ I'm currently a junior at Hood College. I LOVE learning and am interested in ful
 -  💻 **Currently Working:** I will be working as a Research assistant this Spring semester, focusing on Machine learning and embedded systems.
 - 🎓 **Education:** I'm pursuing a major in Computer Science and a minor in Mathematics at Hood College. This Spring, I'll also be a Teaching Assistant for CS 202 (Object-Oriented Programming II).
 - 🚀 **Hackathons:** I have a strong passion for participating in hackathons. I recently competed in Codedex's latest hackathon and am looking forward to joining the NASA Space Apps Challenge this fall.
-- 📚 **Learn more about me** at [danielcoblentz.com](https://danielcoblentz.github.io/)
+- 📚 **Learn more about me** at [danielcoblentz.com](https://main.dognw34rdb1jk.amplifyapp.com)
 
 <br/><br/> 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px"/> <space> Languages & Tools:
