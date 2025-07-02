@@ -1,13 +1,13 @@
 # Hi, I'm Daniel 👋
-I'm currently a junior at Hood College. I LOVE learning and am interested in full-stack web development and artificial intelligence.
+I'm currently a Senior at Hood College. I LOVE learning and am interested in full-stack web development and artificial intelligence.
 <br/><br/> <!-- Adding space -->
 
 
 ## 🌍 About Me
--  💻 **Currently Working:** I will be working as a machine learning research intern this Summer, focusing on Obstructive sleep apnea (OSA).
-- 🎓 **Education:** I'm pursuing a major in Computer Science and a minor in Mathematics at Hood College. This Fall, I'll also be a Teaching Assistant for CS 202 (Object-Oriented Programming II).
-- 🚀 **Hackathons:** I have a strong passion for participating in hackathons. I recently competed in Codedex's latest hackathon and am looking forward to joining the NASA Space Apps Challenge this fall.
-- 📚 **Learn more about me** at [danielcoblentz.com](https://main.dognw34rdb1jk.amplifyapp.com)
+- 💻 **Currently Working:** This summer, I’ll be working as a Machine Learning Research Intern at Lawrence Berkeley National Lab in the Applied Mathematics & Computational Research Division.
+- 🎓 **Education:** I'm majoring in Computer Science with a minor in Mathematics at Hood College. This fall, I’ll also be serving as a Teaching Assistant for CS 202 (Object-Oriented Programming II).
+- 🚀 **Hackathons:** I’m passionate about hackathons! I recently competed in UC Berkeley’s CalAI Hacks and am looking forward to participating in many more this fall.  
+- 📚 **Learn more about me** at [danielcoblentz.com]([https://main.dognw34rdb1jk.amplifyapp.com](https://danielcoblentz.github.io))
 
 <br/><br/> 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px"/> <space> Languages & Tools:
