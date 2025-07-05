@@ -6,7 +6,7 @@ I'm currently a Senior at Hood College. I LOVE learning and am interested in ful
 ## 🌍 About Me
 - 💻 **Currently Working:** This summer, I’ll be working as a Machine Learning Research Intern at Lawrence Berkeley National Lab in the Applied Mathematics & Computational Research Division.
 - 🎓 **Education:** I'm majoring in Computer Science with a minor in Mathematics at Hood College. This fall, I’ll also be serving as a Teaching Assistant for CS 202 (Object-Oriented Programming II).
-- 🚀 **Hackathons:** I recently competed in UC Berkeley’s CalAI Hacks hackathon and am looking forward to participating in many more this fall.  
+- 🚀 **Hackathons:** I recently competed in UC Berkeley’s AI Hackathon and am looking forward to participating in many more this fall.  
 - 📚 **Learn more about me** at [danielcoblentz.com](https://danielcoblentz.github.io)
 
 <br/><br/> 
