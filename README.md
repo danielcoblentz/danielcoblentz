@@ -1,34 +1,41 @@
-# Hi, I'm Daniel 👋
-I'm currently a Senior at Hood College. I LOVE learning and am interested in full-stack web development and artificial intelligence.
-<br/><br/> <!-- Adding space -->
-
+# Hi, I'm Daniel 👋  
+I'm a Machine Learning Research Intern. I LOVE learning and am interested in full-stack web development and artificial intelligence.  
+<br/><br/>
 
 ## 🌍 About Me
-- 💻 **Currently Working:** This summer, I’ll be working as a Machine Learning Research Intern at Lawrence Berkeley National Lab in the Applied Mathematics & Computational Research Division.
-- 🎓 **Education:** I'm majoring in Computer Science with a minor in Mathematics at Hood College. This fall, I’ll also be serving as a Teaching Assistant for CS 202 (Object-Oriented Programming II).
-- 🚀 **Hackathons:** I recently competed in UC Berkeley’s AI Hackathon and am looking forward to participating in many more this fall.  
-- 📚 **Learn more about me** at [danielcoblentz.com](https://danielcoblentz.github.io)
+-  I’m a senior at Hood College majoring in Computer Science with a minor in Mathematics.  
+-  This summer and fall, I’m working as a Machine Learning Research Intern at Lawrence Berkeley National Lab in the Applied Mathematics & Computational Research Division.  
+-  Outside of school, I enjoy participating in hackathons — I recently competed in UC Berkeley’s AI Hackathon and am excited to join many more this fall.  
+-  Learn more about me at [danielcoblentz.com](https://danielcoblentz.github.io)
 
 <br/><br/> 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px"/> <space> Languages & Tools:
-<img src="https://skillicons.dev/icons?i=vscode,pytorch,html,css,js,git,mysql,gcp,python,java,mongodb,github,anaconda,r,flask,figma,firebase,tensorflow,cpp&perline=12"/>
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px"/> <space> Skills:
+<img src="https://skillicons.dev/icons?i=pytorch,html,css,js,git,mysql,gcp,python,java,mongodb,github,anaconda,r,flask,figma,firebase,tensorflow,cpp,spring,docker,aws,heroku,postgres,react&perline=12"/>
 
 
 <br/><br/> 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Pushpin" width="25" height="25" /> Pinned repositories
 
+
 <a href="https://github.com/danielcoblentz/danielcoblentz.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielcoblentz&repo=danielcoblentz.github.io&title_color=89b4fa&text_color=cdd6f4&icon_color=b4befe&border_color=45475a&bg_color=1e1e2e" alt="Portfolio Website" />
 </a>
-<a href="https://github.com/danielcoblentz/Image-classification-using-VGG16">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielcoblentz&repo=Image-classification-using-VGG16&title_color=89b4fa&text_color=cdd6f4&icon_color=b4befe&border_color=45475a&bg_color=1e1e2e" alt="Image Classification using VGG16" />
+<a href="https://github.com/danielcoblentz/AWS-Lambda-Hackathon">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielcoblentz&repo=AWS-Lambda-Hackathon&title_color=89b4fa&text_color=cdd6f4&icon_color=b4befe&border_color=45475a&bg_color=1e1e2e" alt="AWS Lambda Hackathon" />
 </a>
-<a href="https://github.com/danielcoblentz/Maze-Runner">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielcoblentz&repo=Maze-Runner&title_color=89b4fa&text_color=cdd6f4&icon_color=b4befe&border_color=45475a&bg_color=1e1e2e" alt="Maze Runner" />
+<a href="https://github.com/danielcoblentz/Competitive-programming">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielcoblentz&repo=Competitive-programming&title_color=89b4fa&text_color=cdd6f4&icon_color=b4befe&border_color=45475a&bg_color=1e1e2e" alt="Competitive Programming" />
 </a>
-<a href="https://github.com/danielcoblentz/Spell-Checker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielcoblentz&repo=Spell-Checker&title_color=89b4fa&text_color=cdd6f4&icon_color=b4befe&border_color=45475a&bg_color=1e1e2e" alt="Spell Checker" />
+<a href="https://github.com/danielcoblentz/Snap2Save">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielcoblentz&repo=Snap2Save&title_color=89b4fa&text_color=cdd6f4&icon_color=b4befe&border_color=45475a&bg_color=1e1e2e" alt="Snap2Save" />
 </a>
+<a href="https://github.com/danielcoblentz/IBM-Machine-Learning-Capstone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielcoblentz&repo=IBM-Machine-Learning-Capstone&title_color=89b4fa&text_color=cdd6f4&icon_color=b4befe&border_color=45475a&bg_color=1e1e2e" alt="IBM ML Capstone" />
+</a>
+<a href="https://github.com/danielcoblentz/ASL-Recognition-with-CNN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielcoblentz&repo=ASL-Recognition-with-CNN&title_color=89b4fa&text_color=cdd6f4&icon_color=b4befe&border_color=45475a&bg_color=1e1e2e" alt="ASL Recognition with CNN" />
+</a>
+
 
 
 ## 📊 Stats 
