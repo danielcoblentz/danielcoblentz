@@ -5,7 +5,7 @@ I'm a Machine Learning Research Intern. I LOVE learning and am interested in ful
 ## 🌍 About Me
 -  I’m a senior at Hood College majoring in Computer Science with a minor in Mathematics.  
 -  This summer and fall, I’m working as a Machine Learning Research Intern at Lawrence Berkeley National Lab in the Applied Mathematics & Computational Research Division.  
--  Outside of school, I enjoy participating in hackathons — I recently competed in UC Berkeley’s AI Hackathon and am excited to join many more this fall.  
+-  Outside of school, I enjoy participating in hackathons — I recently competed in UC Berkeley’s AI Hackathon and am excited to join many more this fall! 
 -  Learn more about me at [danielcoblentz.com](https://danielcoblentz.github.io)
 
 <br/><br/> 
