@@ -20,9 +20,10 @@ I'm a Machine Learning Research Intern. I LOVE learning and am interested in ful
 <a href="https://github.com/danielcoblentz/danielcoblentz.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielcoblentz&repo=danielcoblentz.github.io&title_color=89b4fa&text_color=cdd6f4&icon_color=b4befe&border_color=45475a&bg_color=1e1e2e" alt="Portfolio Website" />
 </a>
-<a href="https://github.com/danielcoblentz/AWS-Lambda-Hackathon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielcoblentz&repo=AWS-Lambda-Hackathon&title_color=89b4fa&text_color=cdd6f4&icon_color=b4befe&border_color=45475a&bg_color=1e1e2e" alt="AWS Lambda Hackathon" />
+<a href="https://github.com/danielcoblentz/Book-recommendations">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielcoblentz&repo=Book-recommendations&title_color=89b4fa&text_color=cdd6f4&icon_color=b4befe&border_color=45475a&bg_color=1e1e2e" alt="Book Recommendations" />
 </a>
+
 <a href="https://github.com/danielcoblentz/Competitive-programming">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielcoblentz&repo=Competitive-programming&title_color=89b4fa&text_color=cdd6f4&icon_color=b4befe&border_color=45475a&bg_color=1e1e2e" alt="Competitive Programming" />
 </a>
