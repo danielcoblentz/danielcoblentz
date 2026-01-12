@@ -18,23 +18,23 @@ I'm a Machine Learning Research Intern. I LOVE learning and am interested in ful
 
 
 <a href="https://github.com/danielcoblentz/danielcoblentz.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielcoblentz&repo=danielcoblentz.github.io&title_color=89b4fa&text_color=cdd6f4&icon_color=b4befe&border_color=45475a&bg_color=1e1e2e" alt="Portfolio Website" />
+  <img align="center" src="https://github-readme-stats-xi-six-70.vercel.app/api/pin/?username=danielcoblentz&repo=danielcoblentz.github.io&title_color=89b4fa&text_color=cdd6f4&icon_color=b4befe&border_color=45475a&bg_color=1e1e2e" alt="Portfolio Website" />
 </a>
 <a href="https://github.com/danielcoblentz/Book-recommendations">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielcoblentz&repo=Book-recommendations&title_color=89b4fa&text_color=cdd6f4&icon_color=b4befe&border_color=45475a&bg_color=1e1e2e" alt="Book Recommendations" />
+  <img align="center" src="https://github-readme-stats-xi-six-70.vercel.app/api/pin/?username=danielcoblentz&repo=Book-recommendations&title_color=89b4fa&text_color=cdd6f4&icon_color=b4befe&border_color=45475a&bg_color=1e1e2e" alt="Book Recommendations" />
 </a>
 
 <a href="https://github.com/danielcoblentz/Competitive-programming">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielcoblentz&repo=Competitive-programming&title_color=89b4fa&text_color=cdd6f4&icon_color=b4befe&border_color=45475a&bg_color=1e1e2e" alt="Competitive Programming" />
+  <img align="center" src="https://github-readme-stats-xi-six-70.vercel.app/api/pin/?username=danielcoblentz&repo=Competitive-programming&title_color=89b4fa&text_color=cdd6f4&icon_color=b4befe&border_color=45475a&bg_color=1e1e2e" alt="Competitive Programming" />
 </a>
 <a href="https://github.com/danielcoblentz/Snap2Save">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielcoblentz&repo=Snap2Save&title_color=89b4fa&text_color=cdd6f4&icon_color=b4befe&border_color=45475a&bg_color=1e1e2e" alt="Snap2Save" />
+  <img align="center" src="https://github-readme-stats-xi-six-70.vercel.app/api/pin/?username=danielcoblentz&repo=Snap2Save&title_color=89b4fa&text_color=cdd6f4&icon_color=b4befe&border_color=45475a&bg_color=1e1e2e" alt="Snap2Save" />
 </a>
 <a href="https://github.com/danielcoblentz/IBM-Machine-Learning-Capstone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielcoblentz&repo=IBM-Machine-Learning-Capstone&title_color=89b4fa&text_color=cdd6f4&icon_color=b4befe&border_color=45475a&bg_color=1e1e2e" alt="IBM ML Capstone" />
+  <img align="center" src="https://github-readme-stats-xi-six-70.vercel.app/api/pin/?username=danielcoblentz&repo=IBM-Machine-Learning-Capstone&title_color=89b4fa&text_color=cdd6f4&icon_color=b4befe&border_color=45475a&bg_color=1e1e2e" alt="IBM ML Capstone" />
 </a>
 <a href="https://github.com/danielcoblentz/ASL-Recognition-with-CNN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielcoblentz&repo=ASL-Recognition-with-CNN&title_color=89b4fa&text_color=cdd6f4&icon_color=b4befe&border_color=45475a&bg_color=1e1e2e" alt="ASL Recognition with CNN" />
+  <img align="center" src="https://github-readme-stats-xi-six-70.vercel.app/api/pin/?username=danielcoblentz&repo=ASL-Recognition-with-CNN&title_color=89b4fa&text_color=cdd6f4&icon_color=b4befe&border_color=45475a&bg_color=1e1e2e" alt="ASL Recognition with CNN" />
 </a>
 
 
@@ -43,10 +43,10 @@ I'm a Machine Learning Research Intern. I LOVE learning and am interested in ful
 
 <p align="left">
   <a href="https://github.com/danielcoblentz">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=danielcoblentz&show_icons=true&count_private=true&include_all_commits=true&hide=contribs&bg_color=1e1e2e&text_color=c4cdea&icon_color=c4cdea&border_color=1e1e2e&cache_seconds=1800" alt="GitHub Stats" />
+    <img align="left" src="https://github-readme-stats-xi-six-70.vercel.app/api?username=danielcoblentz&show_icons=true&count_private=true&include_all_commits=true&hide=contribs&bg_color=1e1e2e&text_color=c4cdea&icon_color=c4cdea&border_color=1e1e2e&cache_seconds=1800" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/danielcoblentz">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcoblentz&hide=css,html&langs_count=3&bg_color=1e1e2e&text_color=c4cdea&border_color=1e1e2e&random=12345" alt="Top Languages" />
+    <img align="left" src="https://github-readme-stats-xi-six-70.vercel.app/api/top-langs/?username=danielcoblentz&hide=css,html&langs_count=3&bg_color=1e1e2e&text_color=c4cdea&border_color=1e1e2e&random=12345" alt="Top Languages" />
   </a>
 </p>
 
