@@ -1,16 +1,14 @@
 # Hi, I'm Daniel 👋  
-I'm a Machine Learning Research Intern. I LOVE learning and am interested in full-stack web development and artificial intelligence.  
+I'm a Machine Learning Research Intern. I LOVE learning and am interested in artificial intelligence, probability and low level programming.  
 <br/><br/>
 
 ## 🌍 About Me
--  I’m a senior at Hood College majoring in Computer Science with a minor in Mathematics.  
--  This summer and fall, I’m working as a Machine Learning Research Intern at Lawrence Berkeley National Lab in the Applied Mathematics & Computational Research Division.  
--  Outside of school, I enjoy participating in hackathons — I recently competed in UC Berkeley’s AI Hackathon and am excited to join many more this fall! 
+-  I’m working as a Machine Learning Research Intern at Lawrence Berkeley National Lab, focused on multimodal representation learning.  
+-  When I'm not working, I enjoy competitive programming competitions and reading (currently: *The Count of Monte Cristo* by Alexandre Dumas).
 -  Learn more about me at [danielcoblentz.com](https://danielcoblentz.github.io/)
-
 <br/><br/> 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px"/> <space> Skills:
-<img src="https://skillicons.dev/icons?i=pytorch,html,css,js,git,mysql,gcp,python,java,mongodb,github,anaconda,r,flask,figma,firebase,tensorflow,cpp,spring,docker,aws,heroku,postgres,react&perline=12"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,rust,go,java,ts,r,pytorch,tensorflow,sklearn,react,docker,aws,redis,kafka,postgres,git,github&perline=9"/>
 
 
 <br/><br/> 
