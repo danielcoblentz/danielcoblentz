@@ -1,18 +1,18 @@
-# Hi, I'm Daniel
+# Hi, I'm Daniel 👋  
 I'm a Machine Learning Research Intern. I LOVE learning and am interested in artificial intelligence, probability and low level programming.  
 <br/><br/>
 
-## About Me
--  I'm working as a Machine Learning Research Intern at Lawrence Berkeley National Lab, focused on multimodal representation learning.  
+## 🌍 About Me
+-  I’m working as a Machine Learning Research Intern at Lawrence Berkeley National Lab, focused on multimodal representation learning.  
 -  When I'm not working, I enjoy competitive programming competitions and reading (currently: *The Count of Monte Cristo* by Alexandre Dumas).
 -  Learn more about me at [danielcoblentz.com](https://danielcoblentz.github.io/)
 <br/><br/> 
-## Skills:
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px"/> <space> Skills:
 <img src="https://skillicons.dev/icons?i=python,cpp,rust,go,java,ts,r,pytorch,tensorflow,sklearn,react,docker,aws,redis,kafka,postgres,git,github&perline=9"/>
 
 
 <br/><br/> 
-## Pinned repositories
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Pushpin" width="25" height="25" /> Pinned repositories
 
 <a href="https://github.com/danielcoblentz/danielcoblentz.github.io">
   <img align="center" width="400" src="https://github-readme-stats-xi-six-70.vercel.app/api/pin/?username=danielcoblentz&repo=danielcoblentz.github.io&title_color=89b4fa&text_color=cdd6f4&icon_color=b4befe&border_color=45475a&bg_color=1e1e2e" alt="Portfolio Website" />
@@ -36,7 +36,7 @@ I'm a Machine Learning Research Intern. I LOVE learning and am interested in art
 </a>
 
 
-## Stats
+## 📊 Stats 
 
 <p align="left">
   <a href="https://github.com/danielcoblentz">
@@ -51,7 +51,7 @@ I'm a Machine Learning Research Intern. I LOVE learning and am interested in art
 
 
 
-## Contact Me
+## 📫 Contact Me
 
 <p dir="auto">
     <a href="mailto:danielcoblentz916@gmail.com">
