@@ -17,22 +17,22 @@ I'm a Machine Learning Research Intern. I LOVE learning and am interested in art
 <a href="https://github.com/danielcoblentz/danielcoblentz.github.io">
   <img align="center" width="400" src="https://github-readme-stats-xi-six-70.vercel.app/api/pin/?username=danielcoblentz&repo=danielcoblentz.github.io&title_color=89b4fa&text_color=cdd6f4&icon_color=b4befe&border_color=45475a&bg_color=1e1e2e" alt="Portfolio Website" />
 </a>
-<a href="https://github.com/danielcoblentz/Credit-Risk-Dashboard">
-  <img align="center" width="400" src="https://github-readme-stats-xi-six-70.vercel.app/api/pin/?username=danielcoblentz&repo=Credit-Risk-Dashboard&title_color=89b4fa&text_color=cdd6f4&icon_color=b4befe&border_color=45475a&bg_color=1e1e2e" alt="Credit Dashboard" />
+<a href="https://github.com/danielcoblentz/lens">
+  <img align="center" width="400" src="https://github-readme-stats-xi-six-70.vercel.app/api/pin/?username=danielcoblentz&repo=lens&title_color=89b4fa&text_color=cdd6f4&icon_color=b4befe&border_color=45475a&bg_color=1e1e2e" alt="Lens" />
 </a>
 
-<a href="https://github.com/danielcoblentz/Competitive-programming">
-  <img align="center" width="400" src="https://github-readme-stats-xi-six-70.vercel.app/api/pin/?username=danielcoblentz&repo=Competitive-programming&title_color=89b4fa&text_color=cdd6f4&icon_color=b4befe&border_color=45475a&bg_color=1e1e2e" alt="Competitive Programming" />
+<a href="https://github.com/danielcoblentz/competitive-programming">
+  <img align="center" width="400" src="https://github-readme-stats-xi-six-70.vercel.app/api/pin/?username=danielcoblentz&repo=competitive-programming&title_color=89b4fa&text_color=cdd6f4&icon_color=b4befe&border_color=45475a&bg_color=1e1e2e" alt="Competitive Programming" />
 </a>
-<a href="https://github.com/danielcoblentz/Snap2Save">
-  <img align="center" width="400" src="https://github-readme-stats-xi-six-70.vercel.app/api/pin/?username=danielcoblentz&repo=Snap2Save&title_color=89b4fa&text_color=cdd6f4&icon_color=b4befe&border_color=45475a&bg_color=1e1e2e" alt="Snap2Save" />
+<a href="https://github.com/danielcoblentz/snap2save">
+  <img align="center" width="400" src="https://github-readme-stats-xi-six-70.vercel.app/api/pin/?username=danielcoblentz&repo=snap2save&title_color=89b4fa&text_color=cdd6f4&icon_color=b4befe&border_color=45475a&bg_color=1e1e2e" alt="Snap2Save" />
 </a>
 
-<a href="https://github.com/danielcoblentz/IBM-Machine-Learning-Capstone">
-  <img align="center" width="400" src="https://github-readme-stats-xi-six-70.vercel.app/api/pin/?username=danielcoblentz&repo=IBM-Machine-Learning-Capstone&title_color=89b4fa&text_color=cdd6f4&icon_color=b4befe&border_color=45475a&bg_color=1e1e2e" alt="IBM ML project" />
+<a href="https://github.com/danielcoblentz/course-recommender">
+  <img align="center" width="400" src="https://github-readme-stats-xi-six-70.vercel.app/api/pin/?username=danielcoblentz&repo=course-recommender&title_color=89b4fa&text_color=cdd6f4&icon_color=b4befe&border_color=45475a&bg_color=1e1e2e" alt="Course Recommender" />
 </a>
-<a href="https://github.com/danielcoblentz/travel_app">
-  <img align="center" width="400" src="https://github-readme-stats-xi-six-70.vercel.app/api/pin/?username=danielcoblentz&repo=travel_app&title_color=89b4fa&text_color=cdd6f4&icon_color=b4befe&border_color=45475a&bg_color=1e1e2e" alt="Travel Application" />
+<a href="https://github.com/danielcoblentz/url-shortener">
+  <img align="center" width="400" src="https://github-readme-stats-xi-six-70.vercel.app/api/pin/?username=danielcoblentz&repo=url-shortener&title_color=89b4fa&text_color=cdd6f4&icon_color=b4befe&border_color=45475a&bg_color=1e1e2e" alt="URL Shortener" />
 </a>
 
 
